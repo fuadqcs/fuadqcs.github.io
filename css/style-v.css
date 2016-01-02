@@ -1,0 +1,71 @@
+body{
+	color: #5499c7;
+	font-family: "Futura", "Lato","Helvetica Neue",Helvetica, Arial,sans-serif;
+}
+a, a.active{
+	color: #ffffff;
+}
+
+a:hover, a:focus, a:active {
+	color: #ffffff;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background-color: #5499c7;
+}
+
+
+.img30{
+	width:30px;
+	margin-right: 8px;
+	margin-top: -5px;
+}
+.navbar-default a.navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus ,
+.navbar-default .navbar-nav > li > a:active {
+	color: #ffffff;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a {
+	color: #5499c7;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	color: #252525;
+	background-color: #5499c7;
+}
+
+.navbar-default{
+	background-color: #000;
+	border-color: transparent;
+}
+header, section.success {
+	color: #000;
+	background: #5499c7;
+}
+
+footer .footer-above{
+	color: #000;
+	background-color: #5499c7;
+}
+footer .footer-below{
+	color: #5499c7;
+	background-color: #000;
+}
+
+hr.star-light{
+	border-color:#000;
+}
+hr.star-light:after {
+	color: #000;
+	background-color: #5499c7;
+}
+
+hr.star-primary{
+	border-color:#5499c7;
+}
+hr.star-primary:after{
+	color: #5499c7;
+	
+}
