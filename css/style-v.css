@@ -1,5 +1,5 @@
 body{
-	color: #5499c7;
+	color: #FF5722;
 	font-family: "Futura", "Lato","Helvetica Neue",Helvetica, Arial,sans-serif;
 }
 a, a.active{
@@ -11,7 +11,7 @@ a:hover, a:focus, a:active {
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
-	background-color: #5499c7;
+	background-color: #FF5722;
 }
 
 
@@ -28,12 +28,12 @@ a:hover, a:focus, a:active {
 }
 .navbar-default .navbar-brand,
 .navbar-default .navbar-nav > li > a {
-	color: #5499c7;
+	color: #FF5722;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
 	color: #252525;
-	background-color: #5499c7;
+	background-color: #FF5722;
 }
 
 .navbar-default{
@@ -42,15 +42,15 @@ a:hover, a:focus, a:active {
 }
 header, section.success {
 	color: #000;
-	background: #5499c7;
+	background: #FF5722;
 }
 
 footer .footer-above{
 	color: #000;
-	background-color: #5499c7;
+	background-color: #FF5722;
 }
 footer .footer-below{
-	color: #5499c7;
+	color: #FF5722;
 	background-color: #000;
 }
 
@@ -59,13 +59,13 @@ hr.star-light{
 }
 hr.star-light:after {
 	color: #000;
-	background-color: #5499c7;
+	background-color: #FF5722;
 }
 
 hr.star-primary{
-	border-color:#5499c7;
+	border-color:#FF5722;
 }
 hr.star-primary:after{
-	color: #5499c7;
+	color: #FF5722;
 	
 }
