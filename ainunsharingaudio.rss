@@ -2,28 +2,28 @@
 <rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
-    <title>AinunSharing with Fuad Ainun Najib</title>
-    <link>fuadqcs.github.io</link>
+    <title>AinunTalk with Fuad Ainun Najib</title>
+    <link>https://fuadqcs.github.io</link>
     <description>Berisi Content Youtube Fuad Ainun Najib yang hanya audio aja.</description>
     <language>in</language>
     <managingEditor>fuad.ainun@gmail.com</managingEditor>
     <webMaster>fuad.ainun@gmail.com</webMaster>
-    <copyright>fuad.ainun@gmail.com</copyright>
-	<author>fuad.ainun@gmail.com</author>
-	<email>fuad.ainun@gmail.com</email>
+    <copyright>Copyright 2020, fuad.ainun@gmail.com</copyright>
     <image>
-      <title>AinunSharing with Fuad Ainun Najib</title>
-      <link>fuadqcs.github.io</link>
+      <title>AinunTalk with Fuad Ainun Najib</title>
+      <link>https://fuadqcs.github.io</link>
       <url>https://photos.google.com/u/1/photo/AF1QipNR35zQsx4i1NwOZYJx7QHmOvWWHhByKrolWxtC</url>
+      <width>100</width>
+      <height>100</height>
     </image>
     <item>
-      <title>AinunSharing Audio Only</title>
-      <pubDate>Tue, 22 Sep 2020 11:36:23 +0700</pubDate>
-      <link>https://www.youtube.com/playlist?list=PLzXB9z2yV5C_ONF2ODVy-gMpQ9SIS0mbW</link>
+      <title>PENTINGNYA DESIGN USER INTERFACE (UI) DALAM SDLC</title>
+      <pubDate>Tue, 22 Sep 2020 14:52:46 +0700</pubDate>
+      <link>https://youtu.be/M3HegXyEX9c</link>
+      <guid isPermaLink="false">https://youtu.be/M3HegXyEX9c</guid>
       <author>fuad.ainun@gmail.com</author>
-      <category>Pemrograman</category>
+      <category>AinunSharing</category>
       <description><![CDATA[]]></description>
-	  <author>fuad.ainun@gmail.com</author>
     </item>
   </channel>
 </rss>
