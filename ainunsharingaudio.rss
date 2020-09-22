@@ -9,6 +9,8 @@
     <managingEditor>fuad.ainun@gmail.com</managingEditor>
     <webMaster>fuad.ainun@gmail.com</webMaster>
     <copyright>fuad.ainun@gmail.com</copyright>
+	<author>fuad.ainun@gmail.com</author>
+	<email>fuad.ainun@gmail.com</email>
     <image>
       <title>AinunSharing with Fuad Ainun Najib</title>
       <link>fuadqcs.github.io</link>
@@ -21,6 +23,7 @@
       <author>fuad.ainun@gmail.com</author>
       <category>Pemrograman</category>
       <description><![CDATA[]]></description>
+	  <author>fuad.ainun@gmail.com</author>
     </item>
   </channel>
 </rss>
