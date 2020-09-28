@@ -55,17 +55,17 @@ footer .footer-below{
 }
 
 hr.star-light{
-	border-color:#000;
+	border-color:#FF5722;
 }
 hr.star-light:after {
-	color: #000;
+	color: #FF5722;
 	background-color: #FF5722;
 }
 
 hr.star-primary{
-	border-color:#FF5722;
+	border-color:#000;
 }
 hr.star-primary:after{
-	color: #FF5722;
+	color: #000;
 	
 }
